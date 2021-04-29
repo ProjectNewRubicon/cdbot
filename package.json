@@ -1,0 +1,12 @@
+{
+  "name": "cdbot",
+  "version": "1.0.9",
+  "main": "app.mjs",
+  "author": "vk.com/Ke1one",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^8.6.0",
+    "sequelize": "^6.6.2",
+    "vk-io": "^4.2.0"
+  }
+}
