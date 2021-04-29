@@ -1,2 +1,2 @@
-# cdbot
-This is my first quick project for VK API.
+# Shadow Bot
+💌 This is my first quick project for VK API.
